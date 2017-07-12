@@ -1,0 +1,26 @@
+{
+  "name": "normalize-argv",
+  "version": "1.0.0",
+  "description": "Normalize process.argv array when use electron or nwjs and it production build. Usually production build has one argument less",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "electron",
+    "electron-builded",
+    "nwjs",
+    "nw-builder",
+    "process.argv",
+    "process.argv.slice(2)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/croszatycki/normalize-argv"
+  },
+  "author": "Cezary Roszatycki <croszatycki@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/croszatycki/normalize-argv",
+  "bugs": {
+    "url": "https://github.com/croszatycki/normalize-argv/issues"
+  }
+}
