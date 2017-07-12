@@ -1,6 +1,6 @@
 {
   "name": "normalize-argv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Normalize process.argv array when use electron or nwjs and it production build. Usually production build has one argument less",
   "main": "index.js",
   "scripts": {
