@@ -11,6 +11,8 @@ function normalizeArgv(/* argv2 = '.', modifyProcessArgv = true */){
   }
 
   argv.unshift(launcher);
+
+  return argv;
 }
 
 module.exports = normalizeArgv;
